@@ -292,3 +292,26 @@
 	letter-spacing: 0.7px;
 	font-weight: 500;
 }
+.nav-end {
+	background-color: #86a51b;
+}
+.cwu h2 {
+	font-size: 20px;
+	color: #fff;
+	padding-top: 30px;
+	text-align: right;
+}
+.cwu ul {
+	list-style-type: none;
+	display: flex;
+}
+.ul-icon {
+	padding: 35px;
+}
+.ul-icon li .fa {
+	color: #fff;
+	font-size: 40px;
+}
+.ul-icon li {
+	margin-right: 30px;
+}
