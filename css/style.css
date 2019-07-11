@@ -5,7 +5,7 @@
 	color: #ffffff;
 	list-style: none;
 	display: inline;
-	margin-right: 30px;
+	margin-right:;
 	font-size: 14px;
 	letter-spacing: 0.8px;
 	padding: 7px 15px;
@@ -13,7 +13,7 @@
 	
 }
 .ul-media {
-	font-family: Helvetica;
+	font-family: Roboto, sans-serif;
 	padding-top: 13px;
 }
 .ul-media li:hover {
@@ -40,12 +40,13 @@
 	color: #ffffff!important;
 }
 .home a {
-	margin-right: 50px;
+	margin-right: 70px;
 }
 .capture img {
-	margin-right: 100px;
-	padding-right: 200px;
-	margin-top: 0px;
+	margin-right: 50px;
+	padding-right: 80px;
+	padding-left: 70px;
+
 }
 .dropdowm-menu a {
 	color: #555;
@@ -59,7 +60,8 @@
 	color: #555;
 }
 .log {
-	margin-top: 15px;
+	margin-top: 9px;
+	margin-bottom: 5px;
 }
 .login:hover {
 	cursor: pointer;
@@ -73,7 +75,7 @@
 .background {
 	background-image: url("../images/display.jpg");
 	height: 400px;  
-    margin-top: -20px;    
+    margin-top: -90px;    
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -89,6 +91,7 @@
 	margin-top: 90px;
 	font-family: Roboto, sans-serif;
 	font-size: 40px;
+	padding-top: 90px
 }
 .bkg p {
 	font-size: 30px;
@@ -202,9 +205,10 @@
 	text-align: center;
 }
 .more-b2 {
-	padding-top: 15px;
+	padding-top: 5px;
 	text-align: center;
 	margin-top: 10px;
+	padding-bottom: 15px;
 	
 }
 .more-b2 span a {
